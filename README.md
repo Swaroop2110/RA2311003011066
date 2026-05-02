@@ -2,7 +2,7 @@
 
 A robust, full-stack notification system built for campus hiring and updates. This project features a Next.js frontend integrated with Material UI, handling real-time data fetching, pagination, and intelligent priority-based sorting.
 
-## 🚀 Features
+##  Features
 
 - **Priority Inbox:** Intelligently sorts notifications based on Recency and Importance (Placement > Result > Event).
 - **Categorization & Filtering:** Seamlessly filter notifications by types such as Placement, Event, and Result.
@@ -11,9 +11,9 @@ A robust, full-stack notification system built for campus hiring and updates. Th
 - **Responsive Design:** A beautiful, responsive interface crafted with Material UI (MUI) components.
 - **Custom Hooks:** Clean and reusable React hooks (e.g., `useNotifications`) to manage asynchronous state and caching.
 
-## 📸 Screenshots
+##  Screenshots
 
-*(Replace the placeholders below with your localhost screenshots)*
+
 
 ### All Notifications
 ![All Notifications Page](docs/screenshots/notifications.png.png)
@@ -62,7 +62,7 @@ npm run dev
 
 The application should now be running on [http://localhost:3000](http://localhost:3000) (or whichever port Next.js assigns).
 
-## 📂 Project Structure
+##  Project Structure
 
 - `notification_app_fe/api/` - API configuration and fetch utility methods.
 - `notification_app_fe/components/` - Reusable UI elements (Header, Sidebar, FilterBar, PaginationBar, NotificationCard).
@@ -71,6 +71,6 @@ The application should now be running on [http://localhost:3000](http://localhos
 - `notification_app_fe/utils/` - Helper functions like `priorityHelper.js` to rank and sort notifications.
 - `logging_middleware/` - Custom backend/frontend logging module (if applicable).
 
-## 📝 License
+##  License
 
 This project is submitted for evaluation and is the property of the author.
