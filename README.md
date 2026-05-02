@@ -16,10 +16,10 @@ A robust, full-stack notification system built for campus hiring and updates. Th
 *(Replace the placeholders below with your localhost screenshots)*
 
 ### All Notifications
-![All Notifications Page](docs/screenshots/all-notifications.png)
+![All Notifications Page](docs/screenshots/notifications.png.png)
 
 ### Priority Inbox
-![Priority Inbox](docs/screenshots/priority-inbox.png)
+![Priority Inbox](docs/screenshots/priority-inbox.png.png)
 
 ## 🛠️ Tech Stack
 
